@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Cucker_Smale_Modeling",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Cucker_Smale_Modeling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cucker_Smale_Modeling-Debug-f18e0a4c7c05ff09ebe8.json",
+					"name" : "Cucker_Smale_Modeling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/persist/Desktop/Project_Summer/Cucker_Smale_simulation_and_visualization/cmake-build-debug",
+		"source" : "/Users/persist/Desktop/Project_Summer/Cucker_Smale_simulation_and_visualization"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

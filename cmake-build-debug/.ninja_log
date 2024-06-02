@@ -1,0 +1,6 @@
+# ninja log v5
+0	31	1717309255224813444	build.ninja	9d6b80d330d5bddb
+0	573	1717309179163269629	CMakeFiles/3D_Graph_basis.dir/main.cpp.o	b0d0f4285ea27c7e
+574	604	1717309179195752676	3D_Graph_basis	8943780f717c939b
+1	504	1717309259517731625	CMakeFiles/Cucker_Smale_Modeling.dir/main.cpp.o	ee2c6c672fffbc5c
+506	643	1717309259657129775	Cucker_Smale_Modeling	bf174ac3e280b998
